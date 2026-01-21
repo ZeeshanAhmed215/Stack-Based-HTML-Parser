@@ -148,6 +148,13 @@ html (Line 1)
 * Auto-scroll to error lines
 * Improved tag validation rules
 * Support for attributes validation
+## 🖼️ Project Screenshots
+
+### Dark Mood
+![HTML Parser Output](parser_dark_mood.png)
+
+### Light Mood
+![Stack Tree](parser_light_mood.png)
 
 ---
 
